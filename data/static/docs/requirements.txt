@@ -1,0 +1,73 @@
+# ============================
+# Web App
+# ============================
+streamlit
+
+# ============================
+# OpenAI
+# ============================
+openai
+groq
+
+# ============================
+# LangChain Core
+# ============================
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+
+# ============================
+# Vector Database
+# ============================
+chromadb
+
+# ============================
+# Document Loaders
+# ============================
+pypdf
+python-docx
+unstructured
+openpyxl
+pandas
+
+# ============================
+# Website Scraping
+# ============================
+beautifulsoup4
+requests
+lxml
+
+# ============================
+# Environment Variables
+# ============================
+python-dotenv
+
+# ============================
+# Tokenization
+# ============================
+tiktoken
+
+# ============================
+# Utilities
+# ============================
+numpy
+tqdm
+
+# ============================
+# Logging
+# ============================
+loguru
+
+# ============================
+# Scheduling Daily Website Updates
+# ============================
+apscheduler
+
+# ============================
+# Local Embedding Model
+# ============================
+sentence-transformers
+torch
+torchvision
